@@ -1,0 +1,36 @@
+h1 {
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+	
+}
+
+
+#report{
+	width:400px;
+	
+	
+	
+	
+	
+	
+}
+
+th{
+	
+	text-align:left;
+	
+	
+	
+}
+
+table,td,th{
+	
+	border:1px solid;
+	border-color:black;
+	border-collapse:collapse;
+	padding:10px;
+	
+}

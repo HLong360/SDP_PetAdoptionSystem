@@ -1,0 +1,37 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-image: url("../image/background-image.jpg");
+}
+
+.box{
+    width: 450px;
+    background: rgba(0, 0, 0, 0.708);
+    padding: 100px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.box-image{
+    width: 350px;
+    height: 300px;
+    border-radius: 10%;
+}
+
+.box h1{
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100;
+}
+
+.box h5{
+    font-size: 15px;
+}
+
+.box ul{
+    font-size: 18px;
+    font-weight: 100;
+}
